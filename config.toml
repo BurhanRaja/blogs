@@ -1,3 +1,37 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Programming"
+theme = "noteworthy"
+paginate = 8 
+summaryLength = 10 
+
+[taxonomies]
+  tag = "tags"
+
+[author]
+    name = "Burhanuddin"
+
+[markup.goldmark.renderer]
+    unsafe = false
+
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[params]
+    math = true
+    description = "Computer Science, Programming and many more related to technology blogs"
+
+    showReadMore = true
+
+    email = "burhanraja02@yahoo.com"
+    twitter = "https://twitter.com/Burhan_Raja52"
+    linkedin = "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/"
+
+    # Programming
+    github = "https://github.com/BurhanRaja"
+
+
