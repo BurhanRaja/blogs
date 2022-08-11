@@ -33,7 +33,7 @@ Sum of the two numbers
 total = 80279008391 + 64813671323 = 145092679714
 ```
 
-I literally had to calculate this total using calculator. :sweat_smile:
+I had to calculate this total using calculator. &#128517;
 
 
 ## What is Programming used for?
