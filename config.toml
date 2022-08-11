@@ -1,6 +1,6 @@
 baseURL = "https://burhan-codingblogs.netlify.app/"
 languageCode = "en-us"
-title = "Programming"
+title = "Software Engineer Blog"
 theme = "noteworthy"
 paginate = 8 
 summaryLength = 10 
