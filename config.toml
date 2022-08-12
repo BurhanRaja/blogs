@@ -1,37 +1,30 @@
-baseURL = "https://burhan-codingblogs.netlify.app/"
+# baseURL = "https://burhan-codingblogs.netlify.app/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "Software Engineer Blog"
-theme = "noteworthy"
-paginate = 8 
-summaryLength = 10 
-
-[taxonomies]
-  tag = "tags"
-
-[author]
-    name = "Burhanuddin"
-
-[markup.goldmark.renderer]
-    unsafe = false
-
-
-[[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
+theme = "hugo-theme-terminal"
+paginate = 8
 
 [params]
-    math = true
-    description = "Computer Science, Programming and many more related to technology blogs"
+  contentTypeName = "posts"
+  themeColor = "blue"
+  fullWidthTheme = true
+  centerTheme = true
 
-    showReadMore = true
+[params.twitter]
+  creator = "Burhan Raja"
+  site = "https://twitter.com/Burhan_Raja52"
 
-    email = "burhanraja02@yahoo.com"
-    twitter = "https://twitter.com/Burhan_Raja52"
-    linkedin = "https://www.linkedin.com/in/burhanuddin-raja-261b1617b/"
+[languages]
+  [languages.en]
+    title = "Programming Blogs"
+    subtitle = "A simple, retro theme for Hugo"
+    keywords = "Software Engineer Technology Blogs"
+    copyright = "Burhanuddin Raja"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
 
-    # Programming
-    github = "https://github.com/BurhanRaja"
+    [languages.en.params.logo]
+      logoText = "Terminal"
+      logoHomeLink = "/"
 
 

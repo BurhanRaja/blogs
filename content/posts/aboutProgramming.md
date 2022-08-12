@@ -1,16 +1,20 @@
----
-author: "Burhanuddin Raja"
-title: "All about Programming"
-date: "2022-08-11"
-description: "This blog post is about introduction to programming. It is for people who wnats to or are about to enter the tech field."
-tags: [
++++
+author = "Burhanuddin Raja"
+title = "All about Programming"
+date = "2022-08-11"
+description = "Introduction to programming. This introduction is for folks who have or who are about to enter the tech field."
+tags = [
     "intoduction to programming",
     "programming language",
     "programming",
     "coding",
 ]
++++
 
----
+{{< image src="/img/introProgramming.jpg" alt="Intro Programming" position="center" style="border-radius: 8px;" >}}
+
+&nbsp;
+&nbsp;
 
 We all have heard about these terms such as 'Computer Programming', 'Coding' etc. But exactly what is it, what it does, how do you do programming and many more questions. Here, in this blog post I am going to answer all your answers.
 
