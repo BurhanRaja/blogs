@@ -1,7 +1,7 @@
 # baseURL = "https://burhan-codingblogs.netlify.app/"
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-theme = "hugo-theme-terminal"
+theme = "terminal"
 paginate = 8
 
 [params]
