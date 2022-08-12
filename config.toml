@@ -1,5 +1,4 @@
-# baseURL = "https://burhan-codingblogs.netlify.app/"
-baseURL = "http://localhost:1313/"
+baseURL = "https://burhan-codingblogs.netlify.app/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 8
