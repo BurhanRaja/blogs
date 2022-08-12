@@ -1,4 +1,4 @@
-baseURL = "https://burhan-codingblogs.netlify.app/"
+baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 8
@@ -6,24 +6,37 @@ paginate = 8
 [params]
   contentTypeName = "posts"
   themeColor = "blue"
-  fullWidthTheme = true
+  showLanguageSelector = false
+  fullWidthTheme = false
   centerTheme = true
+  autoCover = false
+  showLastUpdated = false
+  favicon = "favicon.ico"
+  readingTime = true 
+  Toc = true
+  TocTitle = "Table of Contents"
+
 
 [params.twitter]
   creator = "Burhan Raja"
-  site = "https://twitter.com/Burhan_Raja52"
+  site = ""
 
 [languages]
   [languages.en]
-    title = "Programming Blogs"
-    subtitle = "A simple, retro theme for Hugo"
-    keywords = "Software Engineer Technology Blogs"
+    languageName = "English"
+    title = "Tech and Development"
+    subtitle = "Programming, Computer Science, tech stacks and many more"
+    owner = "Burhanuddin Raja"
+    keywords = ""
     copyright = "Burhanuddin Raja"
+    menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
       logoText = "Terminal"
       logoHomeLink = "/"
-
-
