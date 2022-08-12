@@ -1,4 +1,4 @@
-baseurl = "https://burhan-techbogs.netlify.app/"
+baseurl = "https://burhan-techblogs.netlify.app/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 8
