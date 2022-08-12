@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313/"
+baseurl = "https://burhan-techbogs.netlify.app/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 8
