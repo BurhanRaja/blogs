@@ -18,7 +18,7 @@ tags = [
 
 We all have heard about these terms such as 'Computer Programming', 'Coding' etc. But exactly what is it, what it does, how do you do programming and many more questions. Here, in this blog post I am going to answer all your answers.
 
-## What is a Programming?
+## What is Programming?
 
 Programming is nothing more than telling the computer to make it do work/tasks that is/are not possible for a human being to do in a small amount of time.
 
