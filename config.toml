@@ -2,7 +2,6 @@ baseurl = "https://burhan-techblogs.netlify.app/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 8
-disqusShortname="yourDisqusShortname"
 
 [params]
   contentTypeName = "posts"
