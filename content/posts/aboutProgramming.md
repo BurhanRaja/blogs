@@ -49,5 +49,32 @@ Programming creates set of instructions for the computer to follow. It allows pr
 
 ## What are Programming language?
 
+The programming languages are the once that helps us communicate with our computer. There are several programming languages for different use cases. 
+
+Some Programming languages are:-
+
+1. Java
+4. Javascript
+3. Python
+4. C++
+5. Golang
+and many more...
+
+One Programming language can have one or more use cases. Let me give you some Example:-
+
+- **Javascript**:- It can be used for both frontend and backend, in CS terms they are called client side and server side. It can be used to give logic to frontend of website as well as perform some tasks on the frontend from backend of website. It also have some popular frontend frameworks like `React.js`, `Angular.js`, `Vue.js` etc.,  popular backend frameworks like `Node.js`, `Express.js` and full stack frameworks like `Ember.js`, `Meteor.js` etc.
+
+- **Python**:- The most popular use case of python is to be used in Machine Learning, Deep Learning and to create powerful Artificial Intelligence programs. For Machine Learning it has several popular libraries like `Scikit-learn`, `Tensorflow`, `Pytorch` etc. It can also be used as a backend of website. It also has some popular backend frameworks like `Django` and `Flask`. You can also create your own games in python using `Pygame`.
+
+- **C++**:- This language is called *The Father of all Programming Languages*. The most popular language when it comes to Data Structures & Algorithm and Competitive Programming. It is also popular for creating Operating Systems, Embedded Systems, Games and Graphical user interfaces. There are engines made from `C++` like Unity which can be used for making Games and more. The popular library like `QT` can be used in embedded systems for automotive and automation industry.
+
+These were some breif explaination about the use cases of different languages.
 
 
+&nbsp;
+&nbsp;
+
+###### This was all from my side about Introduction to Programming.
+###### Hope It was helpful.
+###### Stay Tuned for more
+###### Thank you.
