@@ -7,7 +7,6 @@ tags = [
     "intoduction to internet",
     "Origin of internet",
     "world wide web",
-    "how internet works",
     "computer networks",
     "networking",
 ]
@@ -28,10 +27,10 @@ The **Internet** is the global/worldwide interconnected network of devices which
 
 ICANN (The Internet Corporation for Assigned Names and Network) is a non-profit organization based in United States which is responsible for maintaining Internet.
 
-The internet is travelled through the cable and they connect the whole world through this cables under the sea.
+The internet travels through the cable and they connect the whole world through these cables under the sea.
 You can checkout this link which shows you the cables under the sea of around the world:- [Click Here](https://www.submarinecablemap.com/)
 
-A demo image is given below.
+A demo image of under water cables around the world is given below.
 
 {{< image src="/img/submarine_cables.jpg" alt="Cables for Internet Under the Sea" position="center" style="border-radius: 8px;" >}}
 
