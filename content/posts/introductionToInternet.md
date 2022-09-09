@@ -190,6 +190,9 @@ The below given image is a diagram of Mesh Topology. Here, every single node is 
 14. OSI Model :- Open System Inter-connection Model is a model that defines the structure of network. This model is just for theoretical purpose.
 15. TCP/IP Model :- Internet Protocol Suite Model is a model used in today's structure of network.
 
+&nbsp;
+
+#### Follow me on Github :- @BurhanRaja
 ###### This was all from my side about Introduction on How Internet works.
 ###### Hope It was helpful.
 ###### Stay Tuned for more
