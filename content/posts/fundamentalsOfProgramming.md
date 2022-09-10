@@ -182,3 +182,12 @@ The data types are classification of the given data from which the compiler and 
 
 The above data types are in every programming languages. There more types of data types used in many diffeent programming languages.
 
+&nbsp;
+
+#### Follow me on Github :- [BurhanRaja](https://github.com/BurhanRaja)
+#### Follow me on Twitter :- [Burhan_Raja52](https://twitter.com/Burhan_Raja52)
+#### Follow me on Linkedin :- [Burhanuddin Raja](https://twitter.com/Burhan_Raja52)
+###### This was all from my side about Introduction to Programming.
+###### Hope It was helpful.
+###### Stay Tuned for more
+###### Thank you.

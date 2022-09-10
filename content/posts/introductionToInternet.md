@@ -192,8 +192,10 @@ The below given image is a diagram of Mesh Topology. Here, every single node is 
 
 &nbsp;
 
-#### Follow me on Github :- @BurhanRaja
-###### This was all from my side about Introduction on How Internet works.
+#### Follow me on Github :- [BurhanRaja](https://github.com/BurhanRaja)
+#### Follow me on Twitter :- [Burhan_Raja52](https://twitter.com/Burhan_Raja52)
+#### Follow me on Linkedin :- [Burhanuddin Raja](https://twitter.com/Burhan_Raja52)
+###### This was all from my side about Introduction to Programming.
 ###### Hope It was helpful.
 ###### Stay Tuned for more
 ###### Thank you.
