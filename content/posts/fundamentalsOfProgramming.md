@@ -2,7 +2,7 @@
 author = "Burhanuddin Raja"
 title = "Fundamentals of Programming"
 date = "2022-09-10"
-description = "Intorduction to fundamentals of Programming. Here, I will be discussing about types of programming languages, How programs run in your machine, basic syntax, data types and many more."
+description = "Intorduction to fundamentals of Programming. Here, I have discussed about types of programming languages, How programs run in your machine, basic syntax, data types and many more."
 tags = [
     "fundamentals of programming",
     "types of programming language",
