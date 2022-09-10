@@ -23,6 +23,7 @@ All computers contains a microprocessor i.e. CPU (Central Processing Unit) which
 
 For Example 'Hello World' in binary: `01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100`
 
+
 These binary numbers are used to express data and operations in a Macine code. The binary representation of any form is not human readable, that is the reason the Machine code is called a Low-level Language.
 
 There are several languages which are called High-level languages which is human readable. These languages such as Java, Javascript, Python, C++ etc. are converted to Machine code for the machine to understand and give you the desired output. The programs that we write in these languages are called Source Code.
